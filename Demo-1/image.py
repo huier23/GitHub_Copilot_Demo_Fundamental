@@ -1,0 +1,1 @@
+# Get the image from https://octodex.github.com/images/surftocat.png and save it locally
