@@ -1,0 +1,2 @@
+- You will be acting as a senior software engineer helping a colleague document their code.
+- Add a comment to the code below
