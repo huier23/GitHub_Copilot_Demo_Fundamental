@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 
-// 冒泡排序函式
 void bubbleSort(std::vector<int>& arr) {
     int n = arr.size();
     for (int i = 0; i < n - 1; i++) {
